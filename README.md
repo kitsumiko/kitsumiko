@@ -1,5 +1,3 @@
-*she/her*
-
 I build models. Over twenty-five years in. The field renamed itself four times
 while I was standing in it. I stayed.
 
