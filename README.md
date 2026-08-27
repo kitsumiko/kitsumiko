@@ -1,3 +1,5 @@
+*she/her*
+
 I build models. Over twenty-five years in. The field renamed itself four times
 while I was standing in it. I stayed.
 
@@ -9,7 +11,8 @@ while I was standing in it. I stayed.
   math, new letterhead.
 - ⚙️ **Now, both at once.** Models on markets daily, plus the systems under
   them: schedulers, supervisors, control planes, and enough observability to
-  catch any of it lying to me. C++20 and Go, Rust when a project asks.
+  catch any of it lying to me. Python longest, C++20 and Go now, Rust when a
+  project asks.
 
 **[k3sm](https://k3sm.io)** · macOS-native Kubernetes for Apple Silicon.
 Everything else claiming "Kubernetes on Mac" is a Linux VM with good manners.
