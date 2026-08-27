@@ -1,5 +1,5 @@
-I build models. The field renamed itself four times while I was standing in it.
-I stayed.
+I build models. Over twenty-five years in. The field renamed itself four times
+while I was standing in it. I stayed.
 
 - 🌊 **Started in physics.** Water systems, a nuclear plant cooling model, build
   costs off terabytes of point cloud data. Concrete doesn't care what your
