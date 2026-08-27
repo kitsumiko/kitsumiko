@@ -28,10 +28,10 @@ Six versions are in the ground. There's a server rack in my house that's now the
 legacy tier, which is a polite word for loud.
 
 Elsewhere: output routing in a Rust MUD client. Yes, MUDs. Some of us never
-left.
+left. I'm miko on [swmud.org](https://swmud.org).
 
 Day job is security for AI systems at a large company. Which is why this page
 talks about the work and not the org.
 
-🥋 Off keyboard: two black belts, a bike I take too seriously, and enough
-Japanese to get in trouble in a bookstore.
+🥋 Off keyboard: two black belts, and enough Japanese to get in trouble in a
+bookstore.
