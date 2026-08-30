@@ -1,11 +1,8 @@
 I build models. The field renamed itself four times while I was in it.
 
-- 🌊 **Started in physics.** Water systems, a nuclear plant cooling model, build
-  costs off terabytes of point cloud data. Concrete doesn't care what your
-  regression says.
-- 📉 **Then a central bank.** Forecasting, for policy work.
-- 🔁 **Then the renamings.** OR became DS became ML became AI. Same
-  math, new letterhead.
+- 🌊 **Started in physics.** Water systems, nuclear plant models, build
+  costs off terabytes of point cloud data.
+- 📉 **Then a few banks.** Forecasting, for policy work.  OR became DS became ML became AI. Same math, new letterhead.
 - ⚙️ **Now, both at once.** Models on markets daily, plus the systems under
   them: schedulers, supervisors, control planes, and enough observability to
   catch any of it lying to me. C++ longest, Python most fluent, Go for the
