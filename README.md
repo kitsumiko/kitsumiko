@@ -7,7 +7,7 @@ I build models. The field renamed itself four times while I was in it.
   them: schedulers, supervisors, control planes, and enough observability to
   catch any of it lying to me. C++ longest, Python most fluent, Go for the
   infrastructure, Rust when a project asks.
-- 🛡️ **And now securing them.** Engineering, architecture, and governance for AI
+- 🛡️ **And now securing them.** Security engineering, architecture, and governance for AI
   systems in production. Most of it is old problems arriving faster: identity,
   authorization, data lineage. The new part is threat modeling something that
   answers differently twice.
