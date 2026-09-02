@@ -20,7 +20,7 @@ each in its own micro-VM on a kernel I build and pin. It also serves models:
 an `MLXModel` CRD schedules LLMs onto Apple GPUs behind an OpenAI-compatible
 API, because of course it does. Started as a bet it was impossible. It nearly
 was. The first design died on contact with a real machine, SIP on; the current
-one closes milestones only on real hardware. ~231K lines of Go. Sole engineer,
+one closes milestones only on real hardware. ~231K lines of Go. Solo engineer,
 Apache-2.0.
 
 **[papers](https://github.com/kitsumiko/papers)** · 200+ papers, 40+ policy
