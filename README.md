@@ -15,9 +15,13 @@ I build models. The field renamed itself four times while I was in it.
 **[k3sm](https://k3sm.io)** · macOS-native Kubernetes for Apple Silicon.
 Everything else claiming "Kubernetes on Mac" is a Linux VM with good manners.
 This one isn't: upstream control plane built from source for darwin/arm64, pods
-running as sandboxed native arm64 processes. Started as a bet it was impossible.
-It nearly was. The first design died on contact with a real machine, SIP on.
-Sole engineer, Apache-2.0, repos open at v0.1.0.
+running as sandboxed native arm64 processes. Linux images still run — opt-in,
+each in its own micro-VM on a kernel I build and pin. It also serves models:
+an `MLXModel` CRD schedules LLMs onto Apple GPUs behind an OpenAI-compatible
+API, because of course it does. Started as a bet it was impossible. It nearly
+was. The first design died on contact with a real machine, SIP on; the current
+one closes milestones only on real hardware. ~231K lines of Go. Sole engineer,
+Apache-2.0.
 
 **[papers](https://github.com/kitsumiko/papers)** · 200+ papers, 40+ policy
 documents, 14 domains, arranged as learning paths instead of a pile. A reading
